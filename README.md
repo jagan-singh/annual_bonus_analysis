@@ -1,4 +1,4 @@
 # annual_bonus_analysis
 Tableau
 
-![](Annual Bonus Analysis.png)</div>
+![](Annual%20Bonus%20Analysis.png)
